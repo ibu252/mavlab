@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dhwani+assembly
+* source:	https://sketchfab.com/3d-models/dhwaniassembly-641f20459f164dbdb8cd70bf08cfb02f
+* author:	Aravindhyokesh (https://sketchfab.com/Aravindhyokesh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dhwani+assembly" (https://sketchfab.com/3d-models/dhwaniassembly-641f20459f164dbdb8cd70bf08cfb02f) by Aravindhyokesh (https://sketchfab.com/Aravindhyokesh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
